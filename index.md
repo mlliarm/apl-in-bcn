@@ -12,8 +12,11 @@
 - Twitter: @mlliarm
 - APLwiki: https://aplwiki.com/wiki/User:Mlliarm
 
-## Meetup.com url
+## Meetup
 - https://meetup.com/apl-bcn
+
+## APLwiki
+- https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN
 
 ## Description
 
