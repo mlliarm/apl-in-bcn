@@ -16,7 +16,7 @@
 - https://meetup.com/apl-bcn
 
 ## APLwiki
-- [APL_∊_BCN](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
+- https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN
 
 ## Description
 
