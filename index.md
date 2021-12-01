@@ -53,6 +53,10 @@
   * GNU APL: https://aplwiki.com/wiki/GNU_APL
   * NARS2000: https://aplwiki.com/wiki/NARS2000
   * BQN: https://aplwiki.com/wiki/BQN
+  * lokedhs/array: https://github.com/lokedhs/array
+  * dzaima/APL: https://aplwiki.com/wiki/Dzaima/APL
+  * APL\iv: https://aplwiki.com/wiki/APL%5Civ
+  * ngn-apl: https://github.com/abrudz/ngn-apl
 
 ##  About the meetings:
 
