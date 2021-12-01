@@ -12,8 +12,11 @@
 - Twitter: @mlliarm
 - APLwiki: https://aplwiki.com/wiki/User:Mlliarm
 
-## Meetup.com url
+## Meetup
 - https://meetup.com/apl-bcn
+
+## APLwiki
+- https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN
 
 ## Description
 
@@ -26,7 +29,7 @@
 ## More info:
 - Wiki: https://en.wikipedia.org/wiki/APL_(programming_language)
 
-- APL Wiki: https://apl.wiki
+- APLwiki: https://apl.wiki
 
 - Online APL REPL: https://tryapl.org
 
