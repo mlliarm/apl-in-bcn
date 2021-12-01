@@ -16,7 +16,7 @@
 - https://meetup.com/apl-bcn
 
 ## APLwiki
-- [https://aplwiki.com/index.php?index.php?title=APL_∊_BCN](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
+- [APL_∊_BCN](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
 
 ## Description
 
@@ -79,7 +79,6 @@ c) General reading group
   * APL\iv: https://aplwiki.com/wiki/APL%5Civ
   * April: https://github.com/phantomics/april
   * Pometo: https://github.com/gordonguthrie/pometo
-  * APL2 : [IBM's APL2](https://www.ibm.com/mysupport/s/topic/0TO0z0000006v2xGAA/apl2?language=en_US&productId=01t0z000007g6zqAAA)
   * APL2000: https://apl2000.com/
   * CoSy: https://cosy.com/CoSy/
 - Honorary mention:
