@@ -16,7 +16,7 @@
 - https://meetup.com/apl-bcn
 
 ## APLwiki
-- https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN
+- [https://aplwiki.com/index.php?index.php?title=APL_∊_BCN](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
 
 ## Description
 
@@ -25,6 +25,22 @@
 2) Who should join: Anyone interested in the array programming languages (APL, J, K, ...) and their applications.
 
 3) Learn APL/J/K, read important papers from the great minds of the field, apply APL to modern problems (data science, databases, machine learning, analytics, general development, mathematics, teaching mathematics).
+
+##  About the meetings:
+
+a) General meetups
+- They'll take place once every 4 weeks.
+- They'll take place currently only online either on a Google meet or on Zoom. 
+- In the future (when safe) there'll be fewer online and more IRL meetups, in order to build a strong APLjk community in Barcelona.
+
+b) Historical APL Paper reading group
+- They'll take place once every 2 weeks.
+- The purpose will be to pick one important paper from the minds of the APL world, study it individually and get together to discuss and try to understand the important ideas inside it.
+- This will take place always online, so that anyone can join from all over the globe.
+
+c) General reading group
+- In these kind of meetups, we'll gather around and discuss about an important paper from any scientific field, that we believe could be approached with any of the APL family of languages. Example fields: quantum mechanics, quantum informatics, abstract algebra, linear algebra, category theory...Frequency: every 2-3 weeks.
+- In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: every 2-3 weeks.
 
 ## More info:
 - Wiki: https://en.wikipedia.org/wiki/APL_(programming_language)
@@ -68,22 +84,6 @@
   * CoSy: https://cosy.com/CoSy/
 - Honorary mention:
   * kamilalisp: https://github.com/kspalaiologos/kamilalisp
-
-##  About the meetings:
-
-a) General meetups
-- They'll take place once every 4 weeks.
-- They'll take place currently only online either on a Google meet or on Zoom. 
-- In the future (when safe) there'll be fewer online and more IRL meetups, in order to build a strong APLjk community in Barcelona.
-
-b) Historical APL Paper reading group
-- They'll take place once every 2 weeks.
-- The purpose will be to pick one important paper from the minds of the APL world, study it individually and get together to discuss and try to understand the important ideas inside it.
-- This will take place always online, so that anyone can join from all over the globe.
-
-c) General reading group
-- In these kind of meetups, we'll gather around and discuss about an important paper from any scientific field, that we believe could be approached with any of the APL family of languages. Example fields: quantum mechanics, quantum informatics, abstract algebra, linear algebra, category theory...Frequency: every 2-3 weeks.
-- In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: every 2-3 weeks.
 
 ## Readings:
 
