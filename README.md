@@ -10,7 +10,7 @@
 ## Host
 - Discord: milia#0919
 - Twitter: @mlliarm
-- APLwiki: https://aplwiki.com/wiki/User:Mlliarm
+- APLwiki: [https://aplwiki.com/wiki/User:Mlliarm](https://aplwiki.com/wiki/User:Mlliarm)
 
 ## Meetup
 - https://meetup.com/apl-bcn
