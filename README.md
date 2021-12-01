@@ -26,41 +26,6 @@
 
 3) Learn APL/J/K, read important papers from the great minds of the field, apply APL to modern problems (data science, databases, machine learning, analytics, general development, mathematics, teaching mathematics).
 
-## More info:
-- Wiki: https://en.wikipedia.org/wiki/APL_(programming_language)
-
-- APLwiki: https://apl.wiki
-
-- Online APL REPL: https://tryapl.org
-
-- Podcast: https://www.arraycast.com/
-
-- Chat (The APL Orchard): apl.chat
-
-- Discord (The APL Farm): https://discord.gg/VjdKedQd 
-
-- Reddit: https://www.reddit.com/r/apljk/new/
-
-- Common APL expressions: https://aplcart.info/
-
-- Youtubers:
-	* APL: https://www.youtube.com/c/codereport
-	* J: https://www.youtube.com/user/bobtherriault
-	
-- Array Languages:
-  * Dyalog APL: https://aplwiki.com/wiki/Dyalog_APL
-  * J: https://aplwiki.com/wiki/J
-  * K: https://aplwiki.com/wiki/K
-  * NGN APL: https://aplwiki.com/wiki/Ngn/apl
-  * Nial: https://aplwiki.com/wiki/Nial
-  * GNU APL: https://aplwiki.com/wiki/GNU_APL
-  * NARS2000: https://aplwiki.com/wiki/NARS2000
-  * BQN: https://aplwiki.com/wiki/BQN
-  * lokedhs/array: https://github.com/lokedhs/array
-  * dzaima/APL: https://aplwiki.com/wiki/Dzaima/APL
-  * APL\iv: https://aplwiki.com/wiki/APL%5Civ
-  * ngn-apl: https://github.com/abrudz/ngn-apl
-
 ##  About the meetings:
 
 a) General meetups
@@ -76,6 +41,48 @@ b) Historical APL Paper reading group
 c) General reading group
 - In these kind of meetups, we'll gather around and discuss about an important paper from any scientific field, that we believe could be approached with any of the APL family of languages. Example fields: quantum mechanics, quantum informatics, abstract algebra, linear algebra, category theory...Frequency: every 2-3 weeks.
 - In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: every 2-3 weeks.
+
+## More info:
+- Wiki: https://en.wikipedia.org/wiki/APL_(programming_language)
+
+- APL Wiki: https://apl.wiki
+
+- Online APL REPL: https://tryapl.org
+
+- Podcast: https://www.arraycast.com/
+
+- Chat (The APL Orchard): apl.chat
+
+- Discord (The APL Farm): https://discord.gg/VjdKedQd 
+
+- Reddit: https://www.reddit.com/r/apljk/new/
+
+- Common APL expressions: https://aplcart.info/
+
+- Youtubers:
+  * APL: https://www.youtube.com/c/codereport
+  * APL: https://www.youtube.com/c/RikedyP
+  * J: https://www.youtube.com/user/bobtherriault
+  * J: https://www.youtube.com/c/tangentstorm
+	
+- Array Languages:
+  * Dyalog APL: https://aplwiki.com/wiki/Dyalog_APL
+  * J: https://aplwiki.com/wiki/J
+  * K: https://aplwiki.com/wiki/K
+  * NGN APL: https://aplwiki.com/wiki/Ngn/apl
+  * Nial: https://aplwiki.com/wiki/Nial
+  * GNU APL: https://aplwiki.com/wiki/GNU_APL
+  * NARS2000: https://aplwiki.com/wiki/NARS2000
+  * BQN: https://aplwiki.com/wiki/BQN
+  * lokedhs/array: https://github.com/lokedhs/array
+  * dzaima/APL: https://aplwiki.com/wiki/Dzaima/APL
+  * APL\iv: https://aplwiki.com/wiki/APL%5Civ
+  * April: https://github.com/phantomics/april
+  * Pometo: https://github.com/gordonguthrie/pometo
+  * APL2000: https://apl2000.com/
+  * CoSy: https://cosy.com/CoSy/
+- Honorary mention:
+  * kamilalisp: https://github.com/kspalaiologos/kamilalisp
 
 ## Readings:
 
