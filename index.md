@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# APL ∊ BCN meetup.
 
-You can use the [editor on GitHub](https://github.com/mlliarm/apl-in-bcn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Birthday
+- 2021-11-30
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Founder
+- Discord: milia#0919
+- Twitter: @mlliarm
+- APLwiki: https://aplwiki.com/wiki/User:Mlliarm
 
-### Markdown
+## Meetup.com url
+- https://meetup.com/apl-bcn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Description
 
-```markdown
-Syntax highlighted code block
+1) Purpose: Make APL and the other array languages known.
 
-# Header 1
-## Header 2
-### Header 3
+2) Who should join: Anyone interested in the array programming languages (APL, J, K, ...) and their applications.
 
-- Bulleted
-- List
+3) Learn APL/J/K, read important papers from the great minds of the field, apply APL to modern problems (data science, databases, machine learning, analytics, general development, mathematics, teaching mathematics).
 
-1. Numbered
-2. List
+## More info:
+- Wiki: https://en.wikipedia.org/wiki/APL_(programming_language)
 
-**Bold** and _Italic_ and `Code` text
+- APL Wiki: https://apl.wiki
 
-[Link](url) and ![Image](src)
-```
+- Online APL REPL: https://tryapl.org
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Podcast: https://www.arraycast.com/
 
-### Jekyll Themes
+- Chat (The APL Orchard): apl.chat
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlliarm/apl-in-bcn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Discord (The APL Farm): https://discord.gg/VjdKedQd 
 
-### Support or Contact
+- Reddit: https://www.reddit.com/r/apljk/new/
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Common APL expressions: https://aplcart.info/
+
+- Youtubers:
+	* APL: https://www.youtube.com/c/codereport
+	* J: https://www.youtube.com/user/bobtherriault
+
+##  About the meetings:
+
+a) General meetups
+- They'll take place once every 4 weeks.
+- They'll take place currently only online either on a Google meet or on Zoom. 
+- In the future (when safe) there'll be fewer online and more IRL meetups, in order to build a strong APLjk community in Barcelona.
+
+b) Historical APL Paper reading group
+- They'll take place once every 2 weeks.
+- The purpose will be to pick one important paper from the minds of the APL world, study it individually and get together to discuss and try to understand the important ideas inside it.
+- This will take place always online, so that anyone can join from all over the globe.
+
+c) General reading group
+- In these kind of meetups, we'll gather around and discuss about an important paper from any scientific field, that we believe could be approached with any of the APL family of languages. Example fields: quantum mechanics, quantum informatics, abstract algebra, linear algebra, category theory...Frequency: every 2-3 weeks.
+- In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: every 2-3 weeks.
+
+## Readings:
+
+- A Programming Language (Iverson1962):
+  * https://www.jsoftware.com/papers/APL.htm
+  * http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE/view
+
+- Notation as a Tool of Thought (Iverson1979): 
+  * https://www.jsoftware.com/papers/tot.htm
+  * https://dl.acm.org/ft_gateway.cfm?id=1283935&type=pdf
+
+- APL since 1978 (Hui, Kromberg 2020): 
+  * Paper: https://dl.acm.org/doi/pdf/10.1145/3386319
+  * Video: https://www.pldi21.org/prerecorded_hopl.2.html
+
+- Other readings: https://code.jsoftware.com/wiki/Community/Creative_Commons
+- Other readings from Ken: http://www.softwarepreservation.org/projects/apl/Books
+- Other readings on APL: http://www.softwarepreservation.org/projects/apl
