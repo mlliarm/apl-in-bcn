@@ -1,9 +1,13 @@
 # APL ∊ BCN meetup.
 
+## What
+- This is the website of the APLjk community in Barcelona, Spain.
+- The gatherings will be organized via meetup.com and will be held online for the time being.
+
 ## Birthday
 - 2021-11-30
 
-## Founder
+## Host
 - Discord: milia#0919
 - Twitter: @mlliarm
 - APLwiki: https://aplwiki.com/wiki/User:Mlliarm
@@ -39,6 +43,16 @@
 - Youtubers:
 	* APL: https://www.youtube.com/c/codereport
 	* J: https://www.youtube.com/user/bobtherriault
+	
+- Array Languages:
+  * Dyalog APL: https://aplwiki.com/wiki/Dyalog_APL
+  * J: https://aplwiki.com/wiki/J
+  * K: https://aplwiki.com/wiki/K
+  * NGN APL: https://aplwiki.com/wiki/Ngn/apl
+  * Nial: https://aplwiki.com/wiki/Nial
+  * GNU APL: https://aplwiki.com/wiki/GNU_APL
+  * NARS2000: https://aplwiki.com/wiki/NARS2000
+  * BQN: https://aplwiki.com/wiki/BQN
 
 ##  About the meetings:
 
