@@ -44,8 +44,10 @@
 - Common APL expressions: https://aplcart.info/
 
 - Youtubers:
-	* APL: https://www.youtube.com/c/codereport
-	* J: https://www.youtube.com/user/bobtherriault
+  * APL: https://www.youtube.com/c/codereport
+  * APL: https://www.youtube.com/c/RikedyP
+  * J: https://www.youtube.com/user/bobtherriault
+  * J: https://www.youtube.com/c/tangentstorm
 	
 - Array Languages:
   * Dyalog APL: https://aplwiki.com/wiki/Dyalog_APL
@@ -59,7 +61,13 @@
   * lokedhs/array: https://github.com/lokedhs/array
   * dzaima/APL: https://aplwiki.com/wiki/Dzaima/APL
   * APL\iv: https://aplwiki.com/wiki/APL%5Civ
-  * ngn-apl: https://github.com/abrudz/ngn-apl
+  * April: https://github.com/phantomics/april
+  * Pometo: https://github.com/gordonguthrie/pometo
+  * APL2 : [IBM's APL2](https://www.ibm.com/mysupport/s/topic/0TO0z0000006v2xGAA/apl2?language=en_US&productId=01t0z000007g6zqAAA)
+  * APL2000: https://apl2000.com/
+  * CoSy: https://cosy.com/CoSy/
+- Honorary mention:
+  * kamilalisp: https://github.com/kspalaiologos/kamilalisp
 
 ##  About the meetings:
 
