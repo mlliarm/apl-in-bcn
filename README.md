@@ -43,7 +43,7 @@ c) General reading group
 - In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: every 2-3 weeks.
 
 ## More info:
-- Wiki: [wikipedia:APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language)
+- Wiki: [APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language)
 
 - APL Wiki: [https://apl.wiki](https://apl.wiki)
 
