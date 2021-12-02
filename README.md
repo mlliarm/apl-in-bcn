@@ -34,7 +34,7 @@ a) General meetups
 - They'll take place currently only online either on a Google meet or on Zoom. 
 - In the future (when safe) there'll be fewer online and more IRL meetups, in order to build a strong APLjk community in Barcelona.
 
-b) Historical APL Paper reading group
+b) Historical APL paper reading group
 - They'll take place once every 2 weeks.
 - The purpose will be to pick one important paper from the minds of the APL world, study it individually and get together to discuss and try to understand the important ideas inside it.
 - This will take place always online, so that anyone can join from all over the globe.
