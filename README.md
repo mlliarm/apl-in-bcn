@@ -17,7 +17,7 @@
 - [List of Meetups](meetups.md)
 
 ## APLwiki
-- [aplwiki: APL_∊_BCN](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
+- [https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
 
 ## Description
 
@@ -27,7 +27,7 @@
 
 3) Learn APL/J/K, read important papers from the great minds of the field, apply APL to modern problems (data science, databases, machine learning, analytics, general development, mathematics, teaching mathematics).
 
-##  About the meetings:
+##  About the meetings
 
 a) General meetups
 - They'll take place once every 4 weeks.
@@ -43,7 +43,7 @@ c) General reading group
 - In these kind of meetups, we'll gather around and discuss about an important paper from any scientific field, that we believe could be approached with any of the APL family of languages. Example fields: quantum mechanics, quantum informatics, abstract algebra, linear algebra, category theory...Frequency: every 2-3 weeks.
 - In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: every 2-3 weeks.
 
-## More info:
+## More info
 - Wiki: [APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language))
 
 - APL Wiki: [https://apl.wiki](https://apl.wiki)
@@ -85,8 +85,7 @@ c) General reading group
 - Honorary mention:
   * kamilalisp: [Github: kamilalisp](https://github.com/kspalaiologos/kamilalisp)
 
-## Readings:
-
+## Readings
 - A Programming Language (Iverson1962):
   * [https://www.jsoftware.com/papers/APL.htm](https://www.jsoftware.com/papers/APL.htm)
   * [Softwarepreservation: PDF](http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE/view)
