@@ -10,6 +10,7 @@
 ## Host
 - Discord: milia#0919
 - Twitter: [@mlliarm](https://twitter.com/mlliarm)
+- Email: [mlliarm at yandex dot com](mailto:mlliarm@yandex.com)
 - APLwiki: [User:Mlliarm](https://aplwiki.com/wiki/User:Mlliarm)
 
 ## Meetup
