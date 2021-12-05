@@ -51,6 +51,8 @@ c) General reading group
 
 - Community Book: [Learning APL](https://xpqz.github.io/learnapl/intro.html)
 
+- Learning Resources: [aplwiki: Learning Resources](https://aplwiki.com/wiki/Learning_resources)
+
 - Online APL REPL: [https://tryapl.org](https://tryapl.org)
 
 - Podcast: [https://www.arraycast.com/](https://www.arraycast.com/)
