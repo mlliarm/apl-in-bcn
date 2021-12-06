@@ -53,6 +53,10 @@ c) General reading group
 
 - Learning Resources: [aplwiki: Learning Resources](https://aplwiki.com/wiki/Learning_resources)
 
+- Common APL expressions: [https://aplcart.info/](https://aplcart.info/)
+
+- APL Exercises, by Roger K.W. Hui: [jsoftware.com: APL Exercises](https://www.jsoftware.com/papers/APL_exercises/)
+
 - Online APL REPL: [https://tryapl.org](https://tryapl.org)
 
 - Podcast: [https://www.arraycast.com/](https://www.arraycast.com/)
@@ -62,8 +66,6 @@ c) General reading group
 - Discord (The APL Farm): [https://discord.gg/VjdKedQd](https://discord.gg/VjdKedQd)
 
 - Reddit: [r/apljk](https://www.reddit.com/r/apljk/new/)
-
-- Common APL expressions: [https://aplcart.info/](https://aplcart.info/)
 
 - Youtubers:
   * APL: [Code Report](https://www.youtube.com/c/codereport)
