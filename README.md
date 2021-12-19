@@ -16,6 +16,7 @@
 ## Meetup
 - [https://meetup.com/apl-bcn](https://meetup.com/apl-bcn)
 - [List of Meetups](meetups.md)
+- [YouTube channel](https://www.youtube.com/channel/UC-vM_TkZTA9-nyCEuOvrI6A)
 
 ## APLwiki
 - [https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
