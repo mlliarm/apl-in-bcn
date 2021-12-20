@@ -62,13 +62,13 @@ c) General reading group
 
 - Podcast: [https://www.arraycast.com/](https://www.arraycast.com/)
 
+- APL Campfire: [https://aplwiki.com/wiki/APL_Campfire](https://aplwiki.com/wiki/APL_Campfire)
+
 - Chat (The APL Orchard): [apl.chat](https://apl.chat)
 
 - Discord (The APL Farm): [https://discord.gg/VjdKedQd](https://discord.gg/VjdKedQd)
 
 - Reddit: [r/apljk](https://www.reddit.com/r/apljk/new/)
-
-- APL Campfire: [https://aplwiki.com/wiki/APL_Campfire](https://aplwiki.com/wiki/APL_Campfire) 
 
 - Youtubers:
   * APL: [Code Report](https://www.youtube.com/c/codereport)
