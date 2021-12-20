@@ -68,6 +68,8 @@ c) General reading group
 
 - Reddit: [r/apljk](https://www.reddit.com/r/apljk/new/)
 
+- APL Campfire: [https://aplwiki.com/wiki/APL_Campfire](https://aplwiki.com/wiki/APL_Campfire) 
+
 - Youtubers:
   * APL: [Code Report](https://www.youtube.com/c/codereport)
   * APL: [RikedyP](https://www.youtube.com/c/RikedyP)
