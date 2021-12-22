@@ -88,6 +88,7 @@ c) General reading group
   * NARS2000: [aplwiki: NARS2000](https://aplwiki.com/wiki/NARS2000)
   * BQN: [aplwiki: BQN](https://aplwiki.com/wiki/BQN)
   * APL\iv: [aplwiki: APL\iv](https://aplwiki.com/wiki/APL%5Civ)
+  * APL2: [aplwiki: APL2](https://aplwiki.com/wiki/APL2)
   * April: [Github: April](https://github.com/phantomics/april)
   * Pometo: [Github: Pometo](https://github.com/gordonguthrie/pometo)
   * APL2000: [https://apl2000.com/](https://apl2000.com/)
