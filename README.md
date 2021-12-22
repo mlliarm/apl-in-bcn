@@ -109,6 +109,8 @@ c) General reading group
   * Paper: [ACM: PDF](https://dl.acm.org/doi/pdf/10.1145/3386319)
   * Video: [pldi21.org](https://www.pldi21.org/prerecorded_hopl.2.html)
 
+- [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/), Roger K.W. Hui.
+
 - Other readings: [Creative Commons collection @ Jsoftware](https://code.jsoftware.com/wiki/Community/Creative_Commons)
 - Other readings from Ken: [More books from K. E. Iverson](http://www.softwarepreservation.org/projects/apl/Books)
 - Other readings on APL: [Various historical material on APL](http://www.softwarepreservation.org/projects/apl)
