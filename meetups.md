@@ -10,7 +10,8 @@
 The password for the Zoom meets currently is:
 
 ```python
-int(100_000*sqrt(3)) # python3
+int(100000*sqrt(3)) # pseudocode
+floor(100000*sqrt(3)) # 2nd solution
 ```
 
 <!DOCTYPE html>
