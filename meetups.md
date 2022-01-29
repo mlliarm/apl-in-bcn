@@ -25,8 +25,9 @@ floor(100000*sqrt(3)) # 2nd solution
    - [Teaser](https://rosettacode.org/wiki/Archimedean_spiral#J) (rosettacode.org)
 - Sign-up: [event on meetup.com](https://www.meetup.com/apl-bcn/events/283206437/)
 - Meeting link: [Zoom: 865 2867 0782](https://zoom.us/j/86528670782).  
-- Video: TBD.
-- Slides: TBD.
+- Video: [YouTube](https://youtu.be/74dP7VLMftU).
+- Slides: [PDF](https://github.com/mlliarm/apl-in-bcn/blob/6018b1f7d3a653797ea71362a078f7c81764c7d8/slides/2022-01-29/J_%20A%20modern%20math-oriented%20APL.pdf).
+- Code: [J file](https://github.com/mlliarm/apl-in-bcn/blob/6018b1f7d3a653797ea71362a078f7c81764c7d8/code/2022-01-29/apl_in_bcn_no2.ijs).
 
 #### 2021-12-18
 - Time: 19:00 - 20:30 CET.
