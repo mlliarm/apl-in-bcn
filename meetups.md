@@ -10,12 +10,12 @@
 The password for the Zoom meets currently is:
 
 ```python
-int(100000*sqrt(3)) # pseudocode
-floor(100000*sqrt(3)) # 2nd solution
+int(100000*sqrt(5)) # pseudocode
+floor(100000*sqrt(5)) # 2nd solution
 ```
 
-- [In APL](https://tryapl.org/?clear&q=%E2%8C%8A100000%C3%973*1%C3%B72&run)
-- [In J](https://tio.run/##y/oPBIYGIKBlHGeoagQA)
+- [In APL](https://tio.run/##SyzI0U2pTMzJT////1FPl6EBCByebqpleHi7ERYhAA)
+- [In J](https://tio.run/##y/oPBIYGIKBlGmeoagQA)
 
 #### 2022-01-29
 - Time: 19:00 - 20:30 CET.
