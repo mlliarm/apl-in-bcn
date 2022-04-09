@@ -55,9 +55,9 @@ Taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106) as is:
 
 > Along these lines we attempt here to apply the same theory to the growth of APL using as a database a bibliography recently compiled.
 
-![APL_contributors_py_vs_epidemic_cure](file:///home/pi/Documents/APL/APL_in_BCN/meet#3/2022-04-09-135444_1920x1080_scrot.jpg  "Number of new APL contributors per year .vs. change in active contributors")
+![APL_contributors_py_vs_epidemic_cure](2022-04-09-135444_1920x1080_scrot.png  "Number of new APL contributors per year .vs. change in active contributors")
 
-![Distribution_of_pubs_vs_ratio_of_pubs](/home/pi/Documents/APL/APL_in_BCN/meet#3/2022-04-09-135444_1920x1080_scrot.jpg  "Distribution of publications in one-year intervals .vs. Ratio of publications to authors")
+![Distribution_of_pubs_vs_ratio_of_pubs](2022-04-09-135444_1920x1080_scrot.png  "Distribution of publications in one-year intervals .vs. Ratio of publications to authors")
 
 > It would not be contended that this literature search is exhaustive and we are fully aware that iprovements can be made.
 
@@ -104,7 +104,7 @@ Taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106) as is:
 
 > Many books, handbooks, user's manuals, videotapes and other materials are available: 6, 10, 23-24, 42, 78-80, 95, 112, 140-2, 205, 219, 232, 235-38, 320-323, 329.
 
-![APL_materials](/home/pi/Documents/APL/APL_in_BCN/meet#3/2022-04-09-171726_1920x1080_scrot.png  "APL Handbooks")
+![APL_materials](2022-04-09-171726_1920x1080_scrot.png  "APL Handbooks")
 
 ### i. Conclusions
 
@@ -112,7 +112,7 @@ Taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106) as is:
 
 > In the following we give for the most significative fields of application, the appropriate references where the reader may find more details:
 
-![APL_applications](/home/pi/Documents/APL/APL_in_BCN/meet#3/2022-04-09-172040_1920x1080_scrot.png  "Significant APL applications")
+![APL_applications](2022-04-09-172040_1920x1080_scrot.png  "Significant APL applications")
 
 ### Bibliography
 
