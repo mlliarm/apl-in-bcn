@@ -20,7 +20,7 @@ floor(100000*sqrt(5)) # 2nd solution
 #### 2022-01-29
 - Time: 19:00 - 20:30 CET.
 - Title: J: A modern math-oriented APL.
-- Subjects: An introduction to J for the mathematically curious. 
+- Subject: An introduction to J for the mathematically curious. 
    - [Info on J](https://aplwiki.com/wiki/J) (aplwiki.com).
    - [Teaser](https://rosettacode.org/wiki/Archimedean_spiral#J) (rosettacode.org).
 - Sign-up: [event on meetup.com](https://www.meetup.com/apl-bcn/events/283206437/).
@@ -32,14 +32,21 @@ floor(100000*sqrt(5)) # 2nd solution
 #### 2021-12-18
 - Time: 19:00 - 20:30 CET.
 - Title: APL: A different Programming Language.
-- Subjects: How to keep calm and [not be afraid of the glyphs](https://www.youtube.com/watch?v=7snnRaC4t5c), [monadic](https://aplwiki.com/wiki/Monadic_function) and [dyadic functions](https://aplwiki.com/wiki/Dyadic_function), [operators](https://aplwiki.com/wiki/Operator), [function axis](https://aplwiki.com/wiki/Function_axis).
+- Subject: How to keep calm and [not be afraid of the glyphs](https://www.youtube.com/watch?v=7snnRaC4t5c), [monadic](https://aplwiki.com/wiki/Monadic_function) and [dyadic functions](https://aplwiki.com/wiki/Dyadic_function), [operators](https://aplwiki.com/wiki/Operator), [function axis](https://aplwiki.com/wiki/Function_axis).
 - Sign-up: [event on meetup.com](https://www.meetup.com/apl-bcn/events/282411026/).
 - Meeting link: [Zoom: 758 323 8770](https://us02web.zoom.us/j/7583238770).
 - Video: [YouTube](https://www.youtube.com/watch?v=Aq_gUA4ta_Y).
 - Slides: [PDF](https://github.com/mlliarm/apl-in-bcn/blob/aa4e6e1898b2f482a657af6fed737e65b6a25b5f/slides/2021-12-18/APL_%20A%20different%20Programming%20Language.pdf), [ODP](https://github.com/mlliarm/apl-in-bcn/blob/aa4e6e1898b2f482a657af6fed737e65b6a25b5f/slides/2021-12-18/APL_%20A%20different%20Programming%20Language.odp), [PPTX](https://github.com/mlliarm/apl-in-bcn/blob/aa4e6e1898b2f482a657af6fed737e65b6a25b5f/slides/2021-12-18/APL_%20A%20different%20Programming%20Language.pptx).
 
 ###  Historical APL paper reading group
-- TBD (date depends on interest)
+#### 2022-04-09
+- Time: 19:00 - 20:00 CEST.
+- Title: APL ∊ BCN - meet #3 (historical APL papers)
+- Subject: "Is APL epidemic? or a study of its growth through an extended bibliography", J.C. Rault, G. Demars, APL '72, [(ACM)](https://dl.acm.org/doi/10.1145/800011.808106).	 
+- Sign-up: [event on meetup.com](https://www.meetup.com/apl-bcn/events/284957889/).
+- Meeting link: [Zoom: 847 7983 4648](https://us02web.zoom.us/j/84779834648).  
+- Video: TBD.
+- Slides: [Markdown](https://github.com/mlliarm/apl-in-bcn/blob/main/slides/2022-04-09/meet3_notes.markdown).
 
 ###  General reading group
 - TBD (date depends on interest)
