@@ -39,7 +39,18 @@ floor(100000*sqrt(5)) # 2nd solution
 - Slides: [PDF](https://github.com/mlliarm/apl-in-bcn/blob/aa4e6e1898b2f482a657af6fed737e65b6a25b5f/slides/2021-12-18/APL_%20A%20different%20Programming%20Language.pdf), [ODP](https://github.com/mlliarm/apl-in-bcn/blob/aa4e6e1898b2f482a657af6fed737e65b6a25b5f/slides/2021-12-18/APL_%20A%20different%20Programming%20Language.odp), [PPTX](https://github.com/mlliarm/apl-in-bcn/blob/aa4e6e1898b2f482a657af6fed737e65b6a25b5f/slides/2021-12-18/APL_%20A%20different%20Programming%20Language.pptx).
 
 ###  Historical APL paper reading group
+<<<<<<< ours
 - TBD (date depends on interest)
+=======
+#### 2022-04-09
+- Time: 19:00 - 20:00 CEST.
+- Title: APL ∊ BCN - meet #3 (historical APL papers)
+- Subject: "Is APL epidemic? or a study of its growth through an extended bibliography", J.C. Rault, G. Demars, APL '72, [(ACM)](https://dl.acm.org/doi/10.1145/800011.808106).	 
+- Sign-up: [event on meetup.com](https://www.meetup.com/apl-bcn/events/284957889/).
+- Meeting link: [Zoom: 847 7983 4648](https://us02web.zoom.us/j/84779834648).  
+- Video: [YouTube](https://youtu.be/3TcaVX4Pl9s).
+- Slides: [Markdown](https://github.com/mlliarm/apl-in-bcn/blob/main/slides/2022-04-09/meet3_notes.markdown).
+>>>>>>> theirs
 
 ###  General reading group
 - TBD (date depends on interest)
