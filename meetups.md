@@ -45,7 +45,7 @@ floor(100000*sqrt(5)) # 2nd solution
 - Subject: "Is APL epidemic? or a study of its growth through an extended bibliography", J.C. Rault, G. Demars, APL '72, [(ACM)](https://dl.acm.org/doi/10.1145/800011.808106).	 
 - Sign-up: [event on meetup.com](https://www.meetup.com/apl-bcn/events/284957889/).
 - Meeting link: [Zoom: 847 7983 4648](https://us02web.zoom.us/j/84779834648).  
-- Video: TBD.
+- Video: [YouTube](https://youtu.be/3TcaVX4Pl9s).
 - Slides: [Markdown](https://github.com/mlliarm/apl-in-bcn/blob/main/slides/2022-04-09/meet3_notes.markdown).
 
 ###  General reading group
