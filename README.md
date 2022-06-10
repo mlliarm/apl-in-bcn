@@ -42,8 +42,7 @@ b) Historical APL paper reading group
 - This will take place always online, so that anyone can join from all over the globe.
 
 c) General reading group
-- In these kind of meetups, we'll gather around and discuss about an important paper from any scientific field, that we believe could be approached with any of the APL family of languages. Example fields: quantum mechanics, quantum informatics, abstract algebra, linear algebra, category theory...Frequency: every 2-3 weeks.
-- In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: every 2-3 weeks.
+- In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: if there is interest, every 2-3 weeks.
 
 ## More info
 - Wiki: [APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language))
