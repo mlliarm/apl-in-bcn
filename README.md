@@ -32,17 +32,17 @@
 ##  About the meetings
 
 a) General meetups
-- They'll take place once every 2-3 months (depending on finding  co-host).
+- They'll take place once `every 2-3 months` (depending on finding  co-host).
 - They'll take place currently only online either on a Google meet or on Zoom. 
 - In the future (when safe) there'll be fewer online and more IRL meetups, in order to build a strong APLjk community in Barcelona.
 
 b) Historical APL paper reading group
-- They'll take place once every 1-3 months.
+- They'll take place once `every 1-3 months`.
 - The purpose will be to pick one important paper from the minds of the APL world, study it individually and get together to discuss and try to understand the important ideas inside it.
 - This will take place always online, so that anyone can join from all over the globe.
 
 c) General reading group
-- In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: if there is interest, every 2-3 weeks.
+- In this category of meetings there'll also belong the meetups that we'll do in order to study as a group an important book that will help the attendees better their understanding in APLjk languages or get knowledge on a field where APL can be directly applied. Example books: A Programming Language, SICP, Category Theory for the Sciences, The Annotated Turing, Mathematical Logic (Kleene), Foundations of Combinatory Logic (Curry),...Frequency: *iff there is* interest, `every 2-3 weeks`.
 
 ## More info
 - Wiki: [APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language))
