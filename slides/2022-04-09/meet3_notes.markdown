@@ -5,16 +5,16 @@
 
 1. Structure & goal of the historical APL paper reading meetings
 2. The paper
-   a. Summary
-   b. Introduction
-   c. The Epidimiology of APL
-   d. An Annotated Bibliography
-   e. APL Implementations
-   f. APL Compatible Terminals
-   g. APL File Handling Capabilities
-   h. APL Handbooks
-   i. Conclusions
-   j. Bibliography
+   1. Summary
+   2. Introduction
+   3. The Epidimiology of APL
+   4. An Annotated Bibliography
+   5. APL Implementations
+   6. APL Compatible Terminals
+   7. APL File Handling Capabilities
+   8. APL Handbooks
+   9. Conclusions
+   10. Bibliography
 3. Discussion & questions
 
 ## Structure & goal of the historical APL paper reading meetings
@@ -33,15 +33,13 @@
 ### IS APL EPIDEMIC ? OR A STUDY OF ITS GROWTH THROUGH AN EXTENDED BIBLIOGRAPHY
 #### J. C. Rault and G. Demars, 1972-01-01
 
+Excerpts taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106).
+
 ### a. Summary
 
-Taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106) as is:
-
-> An attempt is made to demostrate that the use of APL is growing in an epidemic fashion. The theory of epidemic processes is applied in an approxiate manner by means of data provided by a nearly-exhaustive bibliography given as an appendix. APL is proved to be undoubtedly epidemic.
+> An attempt is made to demostrate that the use of APL is growing in an epidemic fashion. The theory of epidemic processes is applied in an approximate manner by means of data provided by a nearly-exhaustive bibliography given as an appendix. APL is proved to be undoubtedly epidemic.
 
 ### b. Introduction
-
-Taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106) as is:
 
 > The few conferences held these past years on APL have demostrated a fast growth of its use. At this time APL, as we hope this conference will show, is pervading every area of activity.
 
@@ -51,27 +49,27 @@ Taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106) as is:
 
 ### c. The Epidimiology of APL
 
-> The spread of scientific ideas has already been studied in terms of an epidemi process [1, 2, 3]. A thorough theory has been laid down and applied to the study of an entire discipline such as symbolic logic [3] for a one-hundred year time interval.
+> The spread of scientific ideas has already been studied in terms of an epidemic process [1, 2, 3]. A thorough theory has been laid down and applied to the study of an entire discipline such as symbolic logic [3] for a one-hundred year time interval.
 
 > Along these lines we attempt here to apply the same theory to the growth of APL using as a database a bibliography recently compiled.
 
-![APL_contributors_py_vs_epidemic_cure](file:///home/pi/Documents/APL/APL_in_BCN/meet#3/2022-04-09-135444_1920x1080_scrot.jpg  "Number of new APL contributors per year .vs. change in active contributors")
+![APL_contributors_py_vs_epidemic_cure](2022-04-09-135444_1920x1080_scrot.png  "Number of new APL contributors per year .vs. change in active contributors")
 
-![Distribution_of_pubs_vs_ratio_of_pubs](/home/pi/Documents/APL/APL_in_BCN/meet#3/2022-04-09-135444_1920x1080_scrot.jpg  "Distribution of publications in one-year intervals .vs. Ratio of publications to authors")
+![Distribution_of_pubs_vs_ratio_of_pubs](2022-04-09-164102_1920x1080_scrot.png  "Distribution of publications in one-year intervals .vs. Ratio of publications to authors")
 
-> It would not be contended that this literature search is exhaustive and we are fully aware that iprovements can be made.
+> It would not be contended that this literature search is exhaustive and we are fully aware that improvements can be made.
 
-> This bibliography amounts to about 330 entries and 220 authors. Thus the APL epidemic process, investigated here, considers a population of 220 individuals, or infections, over a ten-year span. Taking into account that an entry may include several authors the total number of publications is 422
+> This bibliography amounts to about 330 entries and 220 authors. Thus the APL epidemic process, investigated here, considers a population of 220 individuals, or infections, over a ten-year span. Taking into account that an entry may include several authors the total number of publications is 422.
 
-> Figure 1 shows the number of new contributions each year: figure 2, showing the change in the number of active contributors each year, represents the epidemic curve for APL since its inception. This curve reveals clearly that since 1968 APL is really an epidemic. This corresponds to the release of an "infectious material" by IBM, APL/360 as a class III product.
+> `Figure 1` shows the number of new contributions each year; `figure 2`, showing the change in the number of active contributors each year, represents the epidemic curve for APL since its inception. This curve reveals clearly that since 1968 APL is really an epidemic. This corresponds to the release of an "infectious material" by IBM, APL/360 as a class III product.
 
-> The shape of this epidemic curve does not allow one to foresee that the epidemic will stabilize in the near future, which, according to theory, should occur when the curve ceases to increase. (In fact this curve tends to grow exponentaially).
+> The shape of this epidemic curve does not allow one to foresee that the epidemic will stabilize in the near future, which, according to theory, should occur when the curve ceases to increase. (In fact this curve tends to grow exponentially).
 
-> Figure 3 gives the yearly number of publications; if the present rate of growth is maintained this year we may expect 250 papers in 1972 with 40 new authors.
+> `Figure 3` gives the yearly number of publications; if the present rate of growth is maintained this year we may expect 250 papers in 1972 with 40 new authors.
 
-> Figure 4 indicates the yearly average number of publications per author. This ratio has increased continuously since 1969.
+> `Figure 4` indicates the yearly average number of publications per author. This ratio has increased continuously since 1969.
 
-> The above figures should not be taken as accurate ones but ust as mere benchmarks manifesting that APL, in spite of its infectious character to certain people, is hale and hearty and thriving at a pace which may endanger soon the [bailiwicks](https://en.wikipedia.org/Bailiwich) of those die-hard fossils that FORTRAN, BASIC and other [patters](https://www.merriam-webster.com/dictionary/patter) are.
+> The above figures should not be taken as accurate ones but just as mere benchmarks manifesting that APL, in spite of its infectious character to certain people, is hale and hearty and thriving at a pace which may endanger soon the [bailiwicks](https://en.wikipedia.org/wiki/Bailiwick) of those die-hard fossils that FORTRAN, BASIC and other [patters](https://www.merriam-webster.com/dictionary/patter) are.
 
 ### d. An Annotated Bibliography
 
@@ -104,7 +102,7 @@ Taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106) as is:
 
 > Many books, handbooks, user's manuals, videotapes and other materials are available: 6, 10, 23-24, 42, 78-80, 95, 112, 140-2, 205, 219, 232, 235-38, 320-323, 329.
 
-![APL_materials](/home/pi/Documents/APL/APL_in_BCN/meet#3/2022-04-09-171726_1920x1080_scrot.png  "APL Handbooks")
+![APL_materials](2022-04-09-171726_1920x1080_scrot.png  "APL Handbooks")
 
 ### i. Conclusions
 
@@ -112,7 +110,7 @@ Taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106) as is:
 
 > In the following we give for the most significative fields of application, the appropriate references where the reader may find more details:
 
-![APL_applications](/home/pi/Documents/APL/APL_in_BCN/meet#3/2022-04-09-172040_1920x1080_scrot.png  "Significant APL applications")
+![APL_applications](2022-04-09-172040_1920x1080_scrot.png  "Significant APL applications")
 
 ### Bibliography
 
@@ -125,14 +123,13 @@ Taken from the [paper](https://dl.acm.org/doi/abs/10.1145/800011.808106) as is:
 ## Discussion & questions
 
 ### Questions
-- Why do you think that APL has stopped being an epidemic as the article claims that it used to be from 1962 to 1972? If APL was an epidemic in the 70s what do you think was the cure?
+- Why do you think that APL has stopped being an epidemic as the article claims that it used to be from 1962 to 1972? If APL was an epidemic in the 70s what do you think was the "cure"?
 - Which programming languages today you think could be thought to be spreading as fast as an epidemic?
 
 ### Future work
-- Do a bibliometric analysis of 10 most popular programming languages of today using an array programming language and compare the results of that analysis with an epidemic model over a population of equal size.
-- Try to see if it's thus possible to reach similar conclusions for any of the 10 most popular languages of today.
-- As a continuation of this study, perhaps do the same for the 50 most popular languages of today, and see how epidemic-like are any of the functional programming languages of today (Haskell, Erlang, Elixir, Clojure, Scala, Kotlin, etc).
-- Reproduce the results of this paper by digitizing the APPENDIX of the paper and plotting the bibliometric results. Also compare with various infectious disease spreading models.
+- Do a bibliometric analysis of 10 most popular programming languages of today using an array programming language and compare the results of that analysis with an epidemic model over a population of equal size. Try to see if it's thus possible to reach similar conclusions for any of the 10 most popular languages of today.
+- As a continuation of this study, perhaps do the same for the 50 most popular languages of today; As a next step, see how epidemic-like are any of the functional programming languages of today (Haskell, Erlang, Elixir, Clojure, Scala, Kotlin, etc).
+- Reproduce the results of this paper by digitizing the APPENDIX of the paper and plotting the bibliometric results. Also compare bibliometric results with various infectious disease spreading models.
 
 
 
