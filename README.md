@@ -2,7 +2,7 @@
 
 ## What
 - This is the website of the APLjk community in Barcelona, Spain.
-- The gatherings will be organized via meetup.com and will be held online for the time being.
+- The gatherings will be organized via meetup.com and will be held online.
 
 ## Birthday
 - 2021-11-30
