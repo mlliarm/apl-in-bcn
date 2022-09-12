@@ -8,8 +8,7 @@
 - 2021-11-30
 
 ## Host
-- Twitter: @mlliarm_v2_0
-- Discord: milia#0919
+- Twitter: @apl_in_bcn
 - Email: mlliarm AT yandex DOT com
 - APLwiki: [User:Mlliarm](https://aplwiki.com/wiki/User:Mlliarm)
 
