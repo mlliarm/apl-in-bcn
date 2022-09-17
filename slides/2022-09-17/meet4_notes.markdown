@@ -399,5 +399,51 @@ Monadic and dyadic functions:
 - ⌽ (reverse, rotate)
 - comma (catenation, ravel)
 
-
 #### e) Amenability to Formal Proofs
+
+**Proofs by exhaustion**
+
+> DeMorgan’s law can be proved exhaustively by comparing each element of the matrix d∘.∧d with each element of ~(~d)∘.∨(~d) as follows:
+
+```apl
+   d∘.∧d                     ~(~d)∘.∨(~d)
+0 0                       0 0 
+0 1                       0 1 
+      (d∘.∧d) = (~(~d)∘.∨(~d))
+1 1
+1 1
+      ∧/,(d∘.∧d) = (~(~d)∘.∨(~d))
+1
+```
+
+> Questions of associativity can be addressed similarly, the following expressions showing the associativity of and and the non-associativity of not-and:
+
+```apl
+      ∧/,((d∘.∧d)∘.∧d)=(d∘.∧(d∘.∧d))
+1
+      ∧/,((d∘.⍲d)∘.⍲d)=(d∘.⍲(d∘.⍲d))
+0
+```
+
+**Proofs by induction**
+
+> Inductive proofs proceed in two steps: 
+  1) some identity (called the induction hypothesis) is assumed true for a fixed integer value of some parameter n and this assumption is used to prove that the identity also holds for the value n+1 , and 
+  2) the identity is shown to hold for some integer value k. 
+  
+  The conclusion is that the identity holds for all integer values of n which equal or exceed k .
+
+Here we'll use the APL language as mathematical notation, and not for calculations.
+
+> Recursive definitions often provide convenient bases for inductive proofs. 
+
+Examples:
+
+> a) Inductive proof that the sum of the binomial coefficients of order n is 2*n .
+
+
+> b) Inductive proof that of DeMorgan’s law for scalar argument: a^b ←→ ~(~a)∨(~b).
+
+Proofs:
+
+In the following meetup.
