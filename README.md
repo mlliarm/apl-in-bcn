@@ -8,7 +8,7 @@
 - *Birthday*: `2021-11-30`.
 - [List of Meetups](meetups.md).
 - [YouTube channel](https://www.youtube.com/channel/UC-vM_TkZTA9-nyCEuOvrI6A).
-- (Twitter)(https://www.twitter.com/apl_in_bcn).
+- [Twitter](https://www.twitter.com/apl_in_bcn).
 - [https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN).
 
 ## Host
