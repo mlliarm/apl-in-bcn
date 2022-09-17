@@ -233,7 +233,146 @@ Example:
 
 #### c) Subordination of Detail
 
+[Subordinate](https://www.google.com/search?q=subordinate):
 
+> verb
+> /səˈbɔːdɪneɪt/
+> treat or regard as of lesser importance than something else.
+> "practical considerations were subordinated to political expediency"
+
+In modern words, abstraction or modeling. Leaving the details out and focusing on the important things.
+
+> we will here consider three important ways of doing this: 
+> - the use of arrays, 
+> - the assignment of names to functions and variables, 
+> - and the use of operators.
+
+[Leading Axis theory](https://aplwiki.com/wiki/Leading_axis_theory)
+
+> In particular, one may specify the axis to which a function applies. For example, ⌽[1]m acts along the first axis of a matrix m to reverse each of the columns, and ⌽[2]m reverses each row; 
+
+> m,[1]n catenates columns (placing m above n), and m,[2]n catenates rows; and +/[1]m sums columns and +/[2]m sums rows. If no axis is specified, the function applies along the last axis. Thus +/m sums rows.
+
+> Finally, reduction and scan along the first axis may be denoted by the symbols ⌿ and ⍀.
+
+**Variables, primitive functions, custom functions**
+
+```apl
+
+⍝ Variables
+      crate ← 144 
+      layer ← crate÷8 
+      row ← layer÷3
+
+⍝ Catenation
+      (⍳5),(⌽⍳5)
+1 2 3 4 5 5 4 3 2 1
+
+⍝ Changing base in number system
+
+      2 2 2 ⊤ 3
+0 1 1 
+      2 2 2 ⊤ 4
+1 0 0
+
+⍝ Binary matrix
+
+bn ← 2 2 2 ⊤ 0 1 2 3 4 5 6 7
+      bn
+0 0 0 0 1 1 1 1
+0 0 1 1 0 0 1 1
+0 1 0 1 0 1 0 1
+
+      bn, ⌽bn
+0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0
+0 0 1 1 0 0 1 1 1 1 0 0 1 1 0 0
+0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0
+
+⍝ Fuction definition
+
+      T ← {(⍵⍴2)⊤(⍳2*⍵)-1}
+
+      bc ← {k ← ⍺
+	        n ← ⍵
+	        k!n ⍝ n choose k
+	  }
+	  
+      3 bc 5
+10
+      3!5
+10
+```
+
+**Operators**
+
+> The term operator, used in the strict sense defined in mathematics rather than loosely as a synonym for function, refers to an entity which applies to functions to produce functions; an example is the derivative operator.
+
+> We have already met two operators, reduction, and scan, denoted by / and \ , and seen how they contribute to brevity by applying to different functions to produce families of related functions such as +/ and ×/ and ^/ .
+
+> A function (such as +/) produced by an operator will be called a derived function.
+
+In J terminology:
+- arrays are nouns
+- functions are verbs that act on nouns
+- operators are adverbs since they act on verbs
+
+*Inner product*
+
+> If p and q are two vectors, then the inner product +.× is defined by:
+
+```apl
+      p +.× q ←→ +/p×q
+```
+
+Example:
+
+```apl
+     p←2 3 5
+      q←2 1 2
+      p+.×q
+17
+      p×.*q
+300
+      p⌊.+q
+4
+```
+
+> The phrase `∘.×` is a special use of the inner product operator to produce a derived function which yields products of each element of its left argument with each element of its right. For example:
+
+```apl
+      2 3 5∘.×⍳5
+2  4  6  8 10
+3  6  9 12 15
+5 10 15 20 25
+```
+
+*Outer product*
+
+> The function ∘.× is called outer product.
+
+Examples:
+
+```apl
+      d←0 1 2 3
+      d∘.⌈d                     d∘.≥d                   d∘.!d 
+0 1 2 3                   1 0 0 0                 1 1 1 1 
+1 1 2 3                   1 1 0 0                 0 1 2 3 
+2 2 2 3                   1 1 1 0                 0 0 1 3 
+3 3 3 3                   1 1 1 1                 0 0 0 1 
+```
+
+*Testing assosiativity*
+
+```apl
+   d←0 1
+   
+d∘.∧(d∘.∧d)    (d∘.∧d)∘.∧d    d∘.≤(d∘.≤d)    (d∘.≤d)∘.≤d 
+   0 0            0 0            1 1             0 1 
+   0 0            0 0            1 1             0 1 
+                    
+   0 0            0 0            1 1             1 1 
+   0 1            0 1            0 1             0 1 
+```
 
 #### d) Economy
 
