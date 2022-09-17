@@ -48,8 +48,5 @@ floor(100000*sqrt(5)) # 2nd solution
 - Video: [YouTube](https://youtu.be/3TcaVX4Pl9s).
 - Slides: [Markdown](https://github.com/mlliarm/apl-in-bcn/blob/main/slides/2022-04-09/meet3_notes.markdown).
 
-###  General reading group
-- TBD (date depends on interest)
-
 ---
 [Go Back](https://mlliarm.github.io/apl-in-bcn/)
