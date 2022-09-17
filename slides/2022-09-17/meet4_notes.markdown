@@ -428,10 +428,11 @@ Monadic and dyadic functions:
 **Proofs by induction**
 
 > Inductive proofs proceed in two steps: 
-  1) some identity (called the induction hypothesis) is assumed true for a fixed integer value of some parameter n and this assumption is used to prove that the identity also holds for the value n+1 , and 
-  2) the identity is shown to hold for some integer value k. 
+
+> 1) some identity (called the induction hypothesis) is assumed true for a fixed integer value of some parameter n and this assumption is used to prove that the identity also holds for the value n+1 , and 
+> 2) the identity is shown to hold for some integer value k. 
   
-  The conclusion is that the identity holds for all integer values of n which equal or exceed k .
+> The conclusion is that the identity holds for all integer values of n which equal or exceed k .
 
 Here we'll use the APL language as mathematical notation, and not for calculations.
 
@@ -444,6 +445,6 @@ Examples:
 
 > b) Inductive proof that of DeMorgan’s law for scalar argument: a^b ←→ ~(~a)∨(~b).
 
-Proofs:
+*Proofs:*
 
-In the following meetup.
+In the following `meetup #5`.
