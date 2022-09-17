@@ -100,7 +100,7 @@ Multiplication `×` as repetitive addition:
 First equivalence:
 
 - A sum reduction of the first `n` integers is equivalent to the discrete "area" of a right triangle with `n` elements on the one side and `n+1` to the other, i.e. `(n+1)×n)÷2`.
-- In APL, where `←→` denotes the equivalence: `+/⍳n ←→ ((n+1)×n)÷2`  **A.1**.
+- In APL, where `←→` denotes the equivalence: `+/⍳n ←→ ((n+1)×n)÷2`  **(A.1)**.
 
 
 #### b) Suggestivity
