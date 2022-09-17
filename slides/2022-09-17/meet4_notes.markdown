@@ -391,13 +391,13 @@ Vocabulary so far:
 > The five functions and three operators listed in the first two rows are of primary interest, the remaining familiar functions having been introduced to illustrate the versatility of the operators.
 
 Monadic and dyadic functions:
-- x*y, *y (power, exp)
-- x⍟y and ⍟y (base x log, natural log)
-- x÷y and ÷y (division, reciprocal)
-- x!y and !y (binomial coeff, factorial)
-- rho (replicate, shape)
-- ⌽ (reverse, rotate)
-- comma (catenation, ravel)
+- `x*y` and `*y` (power, exp)
+- `x⍟y` and `⍟y` (base x log, natural log)
+- `x÷y` and `÷y` (division, reciprocal)
+- `x!y` and !y (binomial coeff, factorial)
+- `⍴` (replicate, shape)
+- `⌽` (reverse, rotate)
+- `,` (catenation, ravel)
 
 #### e) Amenability to Formal Proofs
 
@@ -428,10 +428,10 @@ Monadic and dyadic functions:
 **Proofs by induction**
 
 > Inductive proofs proceed in two steps: 
-
+>
 > 1) some identity (called the induction hypothesis) is assumed true for a fixed integer value of some parameter n and this assumption is used to prove that the identity also holds for the value n+1 , and 
 > 2) the identity is shown to hold for some integer value k. 
-  
+>
 > The conclusion is that the identity holds for all integer values of n which equal or exceed k .
 
 Here we'll use the APL language as mathematical notation, and not for calculations.
@@ -441,8 +441,6 @@ Here we'll use the APL language as mathematical notation, and not for calculatio
 Examples:
 
 > a) Inductive proof that the sum of the binomial coefficients of order n is 2*n .
-
-
 > b) Inductive proof that of DeMorgan’s law for scalar argument: a^b ←→ ~(~a)∨(~b).
 
 *Proofs:*
