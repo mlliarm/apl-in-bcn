@@ -6,7 +6,7 @@
 
 ## Info
 - *Birthday*: `2021-11-30`
-- [List of Meetups](meetups.md)
+- [List of Meetings](meetings.md)
 - [YouTube channel](https://www.youtube.com/channel/UC-vM_TkZTA9-nyCEuOvrI6A)
 - [Twitter page](https://www.twitter.com/apl_in_bcn)
 - [Aplwiki lemma](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
@@ -23,15 +23,13 @@
 
 ##  About the meetings
 
-a) General meetups
+a) General
 - They'll take place once `every 2-3 months` (depending on finding  co-host).
-- They'll take place currently only online either on a Google meet or on Zoom. 
-- In the future (when safe) there'll be fewer online and more IRL meetups, in order to build a strong APLjk community in Barcelona.
+- They'll take place currently only online on YouTube (live chat).
 
-b) Historical APL paper reading group
+b) Historical APL paper reading
 - They'll take place once `every 1-3 months`.
 - The purpose will be to pick one important paper from the minds of the APL world, study it individually and get together to discuss and try to understand the important ideas inside it.
-- This will take place always online, so that anyone can join from all over the globe.
 
 ## More info
 - Wiki: [APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language))
