@@ -142,7 +142,7 @@ Factorial:
 
 Product reduction and logarithms:
 
-> If v is a vector of positive numbers, then the product ×/v may be obtained by taking the natural logarithms of each element of v (denoted by ⍟v), summing them (+/⍟v), and applying the exponential function (*+/⍟v). 
+> If v is a vector of positive numbers, then the product `×/v` may be obtained by taking the natural logarithms of each element of v (denoted by `⍟v`), summing them (`+/⍟v`), and applying the exponential function (`*+/⍟v`). 
 
 In simpler words, the product of n positive numbers equals to the exponential of the sum of the logarithms of each number.
 
@@ -166,7 +166,7 @@ Example:
 
 > Since the exponential function * is the inverse of the natural logarithm ⍟ , the general form suggested by the right side of the identity is:
 
-inverse_g f/g v
+`inverse_g f/g v`
 
 inverse_g: is the inverse of the operation g
 
@@ -249,9 +249,9 @@ In modern words, abstraction or modeling. Leaving the details out and focusing o
 
 [Leading Axis theory](https://aplwiki.com/wiki/Leading_axis_theory)
 
-> In particular, one may specify the axis to which a function applies. For example, ⌽[1]m acts along the first axis of a matrix m to reverse each of the columns, and ⌽[2]m reverses each row; 
+> In particular, one may specify the axis to which a function applies. For example, `⌽[1]m` acts along the first axis of a matrix m to reverse each of the columns, and `⌽[2]m` reverses each row; 
 
-> m,[1]n catenates columns (placing m above n), and m,[2]n catenates rows; and +/[1]m sums columns and +/[2]m sums rows. If no axis is specified, the function applies along the last axis. Thus +/m sums rows.
+> `m,[1]n` catenates columns (placing m above n), and `m,[2]n` catenates rows; and `+/[1]m` sums columns and `+/[2]m` sums rows. If no axis is specified, the function applies along the last axis. Thus `+/m `sums rows.
 
 > Finally, reduction and scan along the first axis may be denoted by the symbols ⌿ and ⍀.
 
@@ -307,7 +307,7 @@ bn ← 2 2 2 ⊤ 0 1 2 3 4 5 6 7
 
 > The term operator, used in the strict sense defined in mathematics rather than loosely as a synonym for function, refers to an entity which applies to functions to produce functions; an example is the derivative operator.
 
-> We have already met two operators, reduction, and scan, denoted by / and \ , and seen how they contribute to brevity by applying to different functions to produce families of related functions such as +/ and ×/ and ^/ .
+> We have already met two operators, reduction, and scan, denoted by `/` and `\` , and seen how they contribute to brevity by applying to different functions to produce families of related functions such as `+/` and `×/` and `^/`.
 
 > A function (such as +/) produced by an operator will be called a derived function.
 
@@ -316,9 +316,9 @@ In J terminology:
 - functions are verbs that act on nouns
 - operators are adverbs since they act on verbs
 
-*Inner product*
+*Inner (scalar) product*
 
-> If p and q are two vectors, then the inner product +.× is defined by:
+> If p and q are two vectors, then the inner product `+.×` is defined by:
 
 ```apl
       p +.× q ←→ +/p×q
@@ -348,7 +348,7 @@ Example:
 
 *Outer product*
 
-> The function ∘.× is called outer product, as it is in tensor analysis, and functions such as ∘.+ and ∘.* and ∘.< are defined analogously, producing “function tables” for the particular functions.
+> The function `∘.×` is called outer product, as it is in tensor analysis, and functions such as `∘.+` and `∘.*` and `∘.<` are defined analogously, producing “function tables” for the particular functions.
 
 Examples:
 
@@ -403,7 +403,7 @@ Monadic and dyadic functions:
 
 **Proofs by exhaustion**
 
-> DeMorgan’s law can be proved exhaustively by comparing each element of the matrix d∘.∧d with each element of ~(~d)∘.∨(~d) as follows:
+> DeMorgan’s law can be proved exhaustively by comparing each element of the matrix `d∘.∧d` with each element of `~(~d)∘.∨(~d)` as follows:
 
 ```apl
    d∘.∧d                     ~(~d)∘.∨(~d)
@@ -442,7 +442,7 @@ Examples:
 
 > a) Inductive proof that the sum of the binomial coefficients of order n is 2*n .
 > 
-> b) Inductive proof that of DeMorgan’s law for scalar argument: a^b ←→ ~(~a)∨(~b).
+> b) Inductive proof that of DeMorgan’s law for scalar argument: `a^b ←→ ~(~a)∨(~b)`.
 
 *Proofs:*
 
