@@ -6,7 +6,7 @@
 ## YouTube Channel
 - [https://www.youtube.com/channel/UC-vM_TkZTA9-nyCEuOvrI6A](https://www.youtube.com/channel/UC-vM_TkZTA9-nyCEuOvrI6A).
 
-### General meetings
+### General
 
 #### 2022-01-29
 - Time: 19:00 - 20:30 CET.
@@ -25,7 +25,7 @@
 - Video: [YouTube](https://www.youtube.com/watch?v=Aq_gUA4ta_Y).
 - Slides: [PDF](https://github.com/mlliarm/apl-in-bcn/blob/aa4e6e1898b2f482a657af6fed737e65b6a25b5f/slides/2021-12-18/APL_%20A%20different%20Programming%20Language.pdf), [ODP](https://github.com/mlliarm/apl-in-bcn/blob/aa4e6e1898b2f482a657af6fed737e65b6a25b5f/slides/2021-12-18/APL_%20A%20different%20Programming%20Language.odp), [PPTX](https://github.com/mlliarm/apl-in-bcn/blob/aa4e6e1898b2f482a657af6fed737e65b6a25b5f/slides/2021-12-18/APL_%20A%20different%20Programming%20Language.pptx).
 
-###  Historical APL paper reading meetings
+###  Historical APL paper reading
 
 #### 2022-09-17
 - Time: 19:00 - 20:30 CEST.
