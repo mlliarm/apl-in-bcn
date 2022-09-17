@@ -61,44 +61,146 @@ Sum Reduction:
 Partial sums or sum scan:
 
 ```apl
-      +\⍳5
+      +\⍳5 ⍝ producing the first 5 triangular numbers
 1 3 6 10 15
-      +/+\⍳5
+      +/+\⍳5 ⍝ the sum of the first 5 triangulars
 35
+     +\+\⍳5 ⍝ producing the first 5 tetrahedral numbers
+1 4 10 20 35
 ```
 
 Geometric interpretation:
+- triangular numbers
 - tetrahedral
-- tetrahedral numbers, a generalization of triangular dimensions to three dimensions
-- "The final expression gives the total number of atoms in the tetrahedron."
+- [tetrahedral numbers](https://mathworld.wolfram.com/TetrahedralNumber.html), a generalization of triangular numbers in three dimensions
+- "The final expression gives the total number of atoms in the tetrahedron.". The author means that if one sums the "atoms" of a tetrahedron with five levels, they'll get the number 35.
 
 ```apl
       ⍳6
 1 2 3 4 5 6
       ⍳5
 1 2 3 4 5
-      ⌽⍳5
+      ⌽⍳5  ⍝ reverse elements of array
 5 4 3 2 1
       (⍳5)+(⌽⍳5)
 6 6 6 6 6
 ```
 
+Multiplication `×` as repetitive addition:
+
 ```apl
       5⍴6
 6 6 6 6 6
-      +/5⍴6
+      +/5⍴6 
 30
       6×5
 30
 ```
 
+First equivalence:
+
+- A sum reduction of the first `n` integers is equivalent to the discrete "area" of a right triangle with `n` elements on the one side and `n+1` to the other, i.e. `(n+1)×n)÷2`.
+- In APL, where `←→` denotes the equivalence: `+/⍳n ←→ ((n+1)×n)÷2`  **A.1**.
+
+
 #### b) Suggestivity
+
+> A notation will be said to be *suggestive* if the forms of the expressions arising in one set of problems suggest related expressions which find application in other problems.
 
 We'll introduce the following operators (also called in the array languages terminology, "verbs", because they're being applied onto "nouns").
 
 ```apl
    ⍳   ⌽   ⍴   +/   +\
 ```
+
+Two equivalences with *reduction*:
+
+```apl
+  +/m⍴n ←→ n×m ⍝ sum reduction and multiplication operation
+  ×/m⍴n ←→ n*m ⍝ product reduction power operation
+```
+
+Two equivalences with *scan*:
+
+```apl
+  +\m⍴n ←→ n×⍳m  ⍝ partial sums and multiplication operation
+  ×\m⍴n ←→ n*⍳m  ⍝ partial products and power operation
+```
+
+Factorial:
+
+```apl
+      ⍳5
+1 2 3 4 5
+      ×/⍳5                      ×\⍳5
+120                       1 2 6 24 120
+      !5                        !⍳5
+120                       1 2 6 24 120
+```
+
+> Part of the suggestive power of a language resides in the ability to represent identities in brief, general, and easily remembered forms. 
+
+Product reduction and logarithms:
+
+> If v is a vector of positive numbers, then the product ×/v may be obtained by taking the natural logarithms of each element of v (denoted by ⍟v), summing them (+/⍟v), and applying the exponential function (*+/⍟v). 
+
+In simpler words, the product of n positive numbers equals to the exponential of the sum of the logarithms of each number.
+
+In APL:
+
+```apl
+   ×/v ←→ *+/⍟v Equivalence   
+```
+
+Example:
+
+```apl
+    +\⍳5
+1 3 6 10 15
+    v ← +\⍳5
+    ×/v
+2700
+    *+/⍟v
+2700
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### c) Subordination of Detail
 
