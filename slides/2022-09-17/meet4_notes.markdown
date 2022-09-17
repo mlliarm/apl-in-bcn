@@ -441,6 +441,7 @@ Here we'll use the APL language as mathematical notation, and not for calculatio
 Examples:
 
 > a) Inductive proof that the sum of the binomial coefficients of order n is 2*n .
+> 
 > b) Inductive proof that of DeMorgan’s law for scalar argument: a^b ←→ ~(~a)∨(~b).
 
 *Proofs:*
