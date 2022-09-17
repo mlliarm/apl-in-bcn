@@ -376,4 +376,28 @@ d∘.∧(d∘.∧d)    (d∘.∧d)∘.∧d    d∘.≤(d∘.≤d)    (d∘.≤d)
 
 #### d) Economy
 
+> Economy requires that a large number of ideas be expressible in terms of a relatively small vocabulary. A fundamental scheme for achieving this is the introduction of grammatical rules by which meaningful phrases and sentences can be constructed by combining elements of the vocabulary.
+
+Vocabulary so far:
+
+```apl
+     ⍳   ⍴   ⌽   ⊤   , 
+      /   \   .  
+
+      + - × ÷ * ⍟ ! ⌈ ⌊ ⍉ 
+      ∨ ∧ ~ < ≤ = ≥ > ≠
+```
+
+> The five functions and three operators listed in the first two rows are of primary interest, the remaining familiar functions having been introduced to illustrate the versatility of the operators.
+
+Monadic and dyadic functions:
+- x*y, *y (power, exp)
+- x⍟y and ⍟y (base x log, natural log)
+- x÷y and ÷y (division, reciprocal)
+- x!y and !y (binomial coeff, factorial)
+- rho (replicate, shape)
+- ⌽ (reverse, rotate)
+- comma (catenation, ravel)
+
+
 #### e) Amenability to Formal Proofs
