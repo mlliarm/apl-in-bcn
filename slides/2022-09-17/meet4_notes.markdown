@@ -449,4 +449,4 @@ Examples:
 
 *Proofs:*
 
-In the following `meetup #5`.
+Short discussion in the following `meetup #5`.
