@@ -146,10 +146,10 @@ Product reduction and logarithms:
 
 In simpler words, the product of n positive numbers equals to the exponential of the sum of the logarithms of each number.
 
-In APL:
+In pseudo-APL:
 
 ```apl
-   ×/v ←→ *+/⍟v Equivalence   
+   ×/v ←→ *+/⍟v ⍝ Equivalence   
 ```
 
 Example:
@@ -164,43 +164,72 @@ Example:
 2700
 ```
 
+> Since the exponential function * is the inverse of the natural logarithm ⍟ , the general form suggested by the right side of the identity is:
+
+inverse_g f/g v
+
+inverse_g: is the inverse of the operation g
 
 
+De Morgan Laws:
 
+```apl
+∧/b ←→ ~∨/~b ⍝ AND/b ←→ NOT(OR/NOT(b))
+∨/b ←→ ~^/~b ⍝  OR/b ←→ NOT(AND/NOT(b))
+```
 
+Example:
 
+```apl
+      b ← 1 0 0 0 1 1
+      ∧/b
+0
+      ~∨/~b
+0
+      ∨/b
+1
+      ~∧/~b
+1
+```
 
+Unique:
 
+```apl
+      ≠/b ←→ ~=/~b ⍝ not_eq/b ←→ NOT(eq/NOT(b))
+      =/b ←→ ~≠/~b ⍝     eq/b ←→ NOT(not_eq/NOT(b))
+```
 
+Example:
 
+```apl
+      b
+1 0 0 0 1 1
+      ~b
+0 1 1 1 0 0
+      ≠/b
+1
+      ~=/~b
+1
+      =/b
+0
+      ~≠/~b
+0
+```
 
+> Finally, using ⌈ and ⌊ to denote the maximum and minimum functions, we can express dualities which involve arithmetic negation:
 
+In pseudo-APL:
 
+```apl
+      ⌈/v ←→ -⌊/-v
+      ⌊/v ←→ -⌈/-v
+```
 
+Example:
 
+(live)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> It may also be noted that scan (f\) may replace reduction (f/) in any of the foregoing dualities.
 
 #### c) Subordination of Detail
 
