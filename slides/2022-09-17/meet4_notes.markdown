@@ -348,7 +348,7 @@ Example:
 
 *Outer product*
 
-> The function ∘.× is called outer product.
+> The function ∘.× is called outer product, as it is in tensor analysis, and functions such as ∘.+ and ∘.* and ∘.< are defined analogously, producing “function tables” for the particular functions.
 
 Examples:
 
