@@ -9,7 +9,7 @@
 - [List of Meetups](meetups.md)
 - [YouTube channel](https://www.youtube.com/channel/UC-vM_TkZTA9-nyCEuOvrI6A)
 - [Twitter page](https://www.twitter.com/apl_in_bcn)
-- [https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN](Aplwiki lemma)
+- [Aplwiki lemma](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
 
 ## Host
 - Email: `mlliarm AT yandex DOT com`
