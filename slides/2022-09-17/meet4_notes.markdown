@@ -229,7 +229,7 @@ Example:
 
 (live)
 
-> It may also be noted that scan (f\) may replace reduction (f/) in any of the foregoing dualities.
+> It may also be noted that scan (`f\`) may replace reduction (`f/`) in any of the foregoing dualities.
 
 #### c) Subordination of Detail
 
