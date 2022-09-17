@@ -236,8 +236,11 @@ Example:
 [Subordinate](https://www.google.com/search?q=subordinate):
 
 > verb
+>
 > /səˈbɔːdɪneɪt/
+>
 > treat or regard as of lesser importance than something else.
+>
 > "practical considerations were subordinated to political expediency"
 
 In modern words, abstraction or modeling. Leaving the details out and focusing on the important things.
