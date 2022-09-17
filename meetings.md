@@ -30,7 +30,7 @@
 #### 2022-09-17
 - Time: 19:00 - 20:30 CEST.
 - Title: APL ∊ BCN - meet #4 (historical APL papers)
-- Subject: "Notation as a Tool of Thought.", Kenneth E. Iverson, 1979, [(PDF)](https://dl.acm.org/doi/pdf/10.1145/358896.358899),[(HTML)](https://www.jsoftware.com/papers/tot.htm).	 
+- Subject: "Notation as a Tool of Thought.", Kenneth E. Iverson, 1979, [(PDF)](https://dl.acm.org/doi/pdf/10.1145/358896.358899), [(HTML)](https://www.jsoftware.com/papers/tot.htm).	 
 - Video: [YouTube](https://www.youtube.com/watch?v=XvHqqQdn6SA).
 - Notes: [Markdown](https://github.com/mlliarm/apl-in-bcn/blob/main/slides/2022-09-17/meet4_notes.markdown).
 
