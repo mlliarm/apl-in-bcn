@@ -5,12 +5,12 @@
 - The gatherings will be held online (YouTube) for the time being.
 
 ## Info
-- *Birthday*: `2021-11-30`.
-- [List of Meetings](meetings.md).
-- IRC: `#apl_in_bcn` in [Libera.chat](https://libera.chat/guides/connect).
-- [YouTube channel](https://www.youtube.com/channel/UC-vM_TkZTA9-nyCEuOvrI6A).
-- [Twitter page](https://www.twitter.com/apl_in_bcn).
-- [Aplwiki lemma](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN).
+- *Birthday*: `2021-11-30`
+- [List of Meetings](meetings.md)
+- IRC: `#apl_in_bcn` in [Libera.chat](https://libera.chat/guides/connect)
+- [YouTube channel](https://www.youtube.com/channel/UC-vM_TkZTA9-nyCEuOvrI6A)
+- [Twitter page](https://www.twitter.com/apl_in_bcn)
+- [Aplwiki lemma](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
 
 ## Host
 - Email: `mlliarm AT yandex DOT com`
