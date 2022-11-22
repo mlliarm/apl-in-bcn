@@ -9,12 +9,11 @@
 - [List of Meetings](meetings.md)
 - IRC: `#apl_in_bcn` in [Libera.chat](https://libera.chat/guides/connect)
 - [YouTube channel](https://www.youtube.com/channel/UC-vM_TkZTA9-nyCEuOvrI6A)
-- [Twitter page](https://www.twitter.com/apl_in_bcn)
 - [Aplwiki lemma](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN)
 
 ## Host
 - Email: `mlliarm AT yandex DOT com`
-- <a href="https://mathstodon.xyz/@mlliarm" rel="me">Mathstodon</a>
+- <a href="https://mathstodon.xyz/@mlliarm" rel="me">@mlliarm@mathstodon.xyz</a>
 
 ## Description
 1) Purpose: Make APL and the other array languages known.
@@ -26,8 +25,7 @@
 ##  About the meetings
 
 a) General
-- They'll take place once `every 2-3 months` (depending on finding  co-host).
-- They'll take place currently only online on YouTube (live chat).
+- They'll take place once `every 2-3 months`.
 
 b) Historical APL paper reading
 - They'll take place once `every 1-3 months`.
